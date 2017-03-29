@@ -1,0 +1,19 @@
+---
+valuation: |+
+  data: {"current":99,"last":99,"id":"valuation","updatedAt":1490750180}
+
+karma: |+
+  data: {"current":999999,"last":999999,"id":"karma","updatedAt":1490750180}
+
+synergy: |+
+  data: {"value":97,"id":"synergy","updatedAt":1490750180}
+
+convergence: |+
+  data: {"points":[{"x":44233,"y":38},{"x":44234,"y":36},{"x":44235,"y":18},{"x":44236,"y":5},{"x":44237,"y":22},{"x":44238,"y":37},{"x":44239,"y":10},{"x":44240,"y":8},{"x":44241,"y":33},{"x":44242,"y":16}],"id":"convergence","updatedAt":1490750179}
+
+buzzwords: |+
+  data: {"items":[{"label":"Synergy","value":11},{"label":"Exit strategy","value":26},{"label":"Paradigm shift","value":9},{"label":"Enterprise","value":6},{"label":"Pivoting","value":16},{"label":"Web 2.0","value":1},{"label":"Leverage","value":24},{"label":"Turn-key","value":16},{"label":"Streamlininess","value":23}],"id":"buzzwords","updatedAt":1490750179}
+
+welcome: |+
+  data: {"build_id":"angeltalk-builds #101, build #101","repo":"bitbucket blabla","branch":"angeltalk-builds #101","time":"49208-03-26 15:32:24 +0900","state":"Success","widget_class":"passed","id":"welcome","updatedAt":1490750180}
+
